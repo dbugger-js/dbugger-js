@@ -189,10 +189,10 @@ Because the best way to learn is to build.
 
 ---
 
-# Connect
+## 🌐 Connect
 
-- 💼 LinkedIn
 - 🐦 X (Twitter): https://x.com/dbugger_js
+- 💼 LinkedIn: https://linkedin.com/in/prasanajit-bhadra
 - 📧 Email: bhadraprasanajit@gmail.com
 
 ---
